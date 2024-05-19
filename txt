@@ -1,0 +1,5 @@
+Previously Done work on Dataset
+ ● Loaded the data and separated path and 
+label
+ ● Balanced dataset with 400 data point in 
+each Category
